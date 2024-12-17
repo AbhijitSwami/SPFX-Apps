@@ -38,24 +38,15 @@ This web part provides easy way to render SharePoint custom list in datatable vi
 
 ## Contributors
 
-- [Chandani Prajapati](https://github.com/chandaniprajapati) 
-- [Abderahman Moujahid](https://github.com/Abderahman88)
-- [Mohammad Amer](https://github.com/mohammadamer)
+- [Abhijit Siddhaya Swami](https://github.com/AbhijitSwami) 
+
 
 ## Version history
 
 Version|Date|Comments
 -------|----|--------
-1.0|February 19, 2021|Initial release
-1.1|February 24, 2021|Added support for large lists
-1.2|March 01, 2021|Fixed search issue for number field
-1.3|March 31,2021| Changed UI as per SharePoint list, Set themeing as per current SharePoint site theme, Created custom pagination by using reusable controls, Added features to export CSV based on the filter if the filter is available, Added hyperlink feature for image and link column in export to pdf and also set alternative row formatting in generated pdf as per property pane configuration odd/even row color, fixed object issue (for people/hyperlink, etc) in export to CSV.
-1.4|April 10, 2021|Added feature to show profile picture in user column and shows display name of user field in export to CSV and PDF.
-1.5|June 2, 2021|Added feature to show image in dataTable and upgraded to the SPFx version 1.12.1.
-1.6|July 16, 2021|Changed library export-to-csv with react-csv
-1.7|Feb 22, 2022|Upgrade to SPFx v1.14.0
-1.8|November 01, 2022|Added support for list attachments
-1.9|October 20, 2024|Upgraded to SPFx v1.20.0
+1.0|December 15, 2024|Initial release
+
 
 ## Minimal Path to Awesome
 
@@ -69,9 +60,7 @@ Version|Date|Comments
   - `npm install`
   - `gulp serve`
 
-## Video
 
-[![DataTable web part for rendering data from lists with advance features](./assets/video-thumbnail.jpg)](https://www.youtube.com/watch?v=-i4EAmjKxpQ "DataTable web part for rendering data from lists with advance features")
 
 ## Help
 
@@ -93,4 +82,4 @@ Finally, if you have an idea for improvement, [make a suggestion](https://github
 
 **THIS CODE IS PROVIDED *AS IS* WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sp-dev-fx-webparts/samples/react-datatable" />
+
