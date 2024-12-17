@@ -1,0 +1,28 @@
+@import '~office-ui-fabric-react/dist/sass/References.scss';
+
+.exportToCsv {
+  .btnCSV {
+    background-color: "[theme:themePrimary, default:#0078d7]";
+    border-color: "[theme: themePrimary, default: #0078d7]";
+    color: "[theme:white, default:white]" 
+  }
+}
+.image {
+  cursor: pointer;
+  border-radius: 5px; /* Optional: Make the image rounded */
+  transition: transform 0.2s; /* Optional: Add a hover effect */
+
+  &:hover {
+      transform: scale(1.1); /* Optional: Slight zoom on hover */
+  }
+}
+
+.link {
+  color: #0078d4; /* Optional: Microsoft Fluent UI Link color */
+  text-decoration: none;
+
+  &:hover {
+      text-decoration: underline; /* Underline on hover */
+  }
+}
+

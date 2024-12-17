@@ -1,0 +1,20 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "DataTable_Developed_By_Abhijitswami",
+    "id": "35299377-f8c8-4721-bd53-05602fc0c4ee",
+    "version": "1.9.0.2",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "Abhijit_Swami(NABARD)",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.14.0"
+    }
+  },
+  "paths": {
+    "zippedPackage": "solution/datatable.sppkg"
+  }
+}

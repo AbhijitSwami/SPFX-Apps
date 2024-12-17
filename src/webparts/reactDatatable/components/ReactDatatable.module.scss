@@ -1,0 +1,29 @@
+@import '~office-ui-fabric-react/dist/sass/References.scss';
+
+.reactDatatable {
+  .dataTableUtilities{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    .downloadButtons > *{
+      margin-right: 10px;
+    }    
+  }
+  .txtSearchBox{
+    min-width: 250px;
+  }
+  .colHeader {
+    background-color: #9E7BFF !important; /* Background color for header */
+    color: white; /* Text color for readability */
+    font-weight: bold; /* Bold text */
+    text-align: center; /* Center-align text */
+    border-right: 1px solid #ddd; /* Add a border between columns */
+    border-bottom: 2px solid #555; /* Optional: Add a slightly thicker bottom border */
+  }
+  
+  /* Optional: Remove the last column's border */
+  .colHeader:last-child {
+    border-right: none;
+  }
+  
+  
+}
