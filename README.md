@@ -1,4 +1,4 @@
-# SharePoint Framework DataTable web part sample
+# SharePoint Framework DataTable web part
 
 ## Summary
 
